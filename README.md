@@ -1,6 +1,6 @@
 # My NLP Work Repo
 
-Repository of the model building codes for my independent ML DL projects.
+Repository of the model building codes for my independent NLP ML-DL projects.
 
 ## Content:
 
